@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "25583856907",
+    "firebase_url": "https://mp9eduardos.firebaseio.com",
+    "project_id": "mp9eduardos",
+    "storage_bucket": "mp9eduardos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25583856907:android:f2c0eec7c3d93ccf",
+        "android_client_info": {
+          "package_name": "com.example.mp9eduardosantibanez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlg3Mf6j2xxKjSmbWH2TNwSuvVxvkndks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25583856907-sd97neudla4hf4gbq8fd58ivn05v8mqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MP9EduardoSantibanez</string>
+    <string name="capture_button">Get Text</string>
+    <string name="desc">Capture image holder</string>
+</resources>
